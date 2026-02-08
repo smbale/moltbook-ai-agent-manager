@@ -1,0 +1,5 @@
+{
+  "name": "Moltbook AI Agent Manager",
+  "description": "A sophisticated dashboard to configure, manage, and automate your AI agents on the Moltbook protocol. Includes wallet integration, persona creation via Gemini, and EIP-191 signing logic.",
+  "requestFramePermissions": []
+}
