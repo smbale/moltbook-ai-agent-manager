@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="GHBanner" src="" />
+<img alt="GHBanner" src="https://mpelembe.net/wp-content/uploads/2026/02/Moltbook-Agent-1-1.png" />
 Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
